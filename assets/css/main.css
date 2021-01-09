@@ -229,10 +229,8 @@ input, select, textarea {
 		position: relative;
 		top: 0.5rem;
 	}
-
-	sup {
-		font-size: 0.8rem;
-		position: relative;
+	
+	
 		top: -0.5rem;
 	}
 
